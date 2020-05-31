@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Stefka Kalenicova</string>
+    <string name="textWedding">Цветна градина</string>
+    <string name="btnLogIn">Вход</string>
+    <string name="btnReg">Регистрация</string>
+    <string name="textEmail">E-mail</string>
+    <string name="textPass">Вашата парола</string>
+    <string name="btnEnter">Влез</string>
+    <string name="btnEnterGoogle">Влез чрез Google</string>
+    <string name="activity_main_reg">Регистрация</string>
+    <string name="btnNewReg">Регистрация</string>
+    <string name="activity_main3_app">Избор на дейност</string>
+    <string name="ImgBtnToDo">Цветя за дома</string>
+    <string name="ImgBtn">Цветя за градината</string>
+    <string name="ImgBtnTips">Съвети</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
